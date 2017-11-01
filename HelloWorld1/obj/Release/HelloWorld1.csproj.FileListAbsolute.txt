@@ -1,0 +1,6 @@
+E:\Downloads\HelloWorld1 for khanh 2\HelloWorld1\bin\HelloWorld1.dll.config
+E:\Downloads\HelloWorld1 for khanh 2\HelloWorld1\bin\HelloWorld1.dll
+E:\Downloads\HelloWorld1 for khanh 2\HelloWorld1\bin\HelloWorld1.pdb
+E:\Downloads\HelloWorld1 for khanh 2\HelloWorld1\obj\Release\HelloWorld1.csprojResolveAssemblyReference.cache
+E:\Downloads\HelloWorld1 for khanh 2\HelloWorld1\obj\Release\HelloWorld1.dll
+E:\Downloads\HelloWorld1 for khanh 2\HelloWorld1\obj\Release\HelloWorld1.pdb

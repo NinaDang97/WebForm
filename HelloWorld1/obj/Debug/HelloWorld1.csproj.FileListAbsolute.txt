@@ -1,0 +1,48 @@
+c:\users\dangthuy\documents\visual studio 2013\Projects\HelloWorld1\HelloWorld1\bin\HelloWorld1.dll.config
+c:\users\dangthuy\documents\visual studio 2013\Projects\HelloWorld1\HelloWorld1\bin\HelloWorld1.dll
+c:\users\dangthuy\documents\visual studio 2013\Projects\HelloWorld1\HelloWorld1\bin\HelloWorld1.pdb
+c:\users\dangthuy\documents\visual studio 2013\Projects\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.csprojResolveAssemblyReference.cache
+c:\users\dangthuy\documents\visual studio 2013\Projects\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.dll
+c:\users\dangthuy\documents\visual studio 2013\Projects\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.pdb
+C:\Users\khanhdang\Downloads\HelloWorld1\HelloWorld1\bin\HelloWorld1.dll.config
+C:\Users\khanhdang\Downloads\HelloWorld1\HelloWorld1\bin\HelloWorld1.dll
+C:\Users\khanhdang\Downloads\HelloWorld1\HelloWorld1\bin\HelloWorld1.pdb
+C:\Users\khanhdang\Downloads\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.csprojResolveAssemblyReference.cache
+C:\Users\khanhdang\Downloads\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.dll
+C:\Users\khanhdang\Downloads\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.pdb
+E:\04BIT15_Khanh\Green ICT Systems Project\Web Form\HelloWorld1\HelloWorld1\bin\HelloWorld1.dll.config
+E:\04BIT15_Khanh\Green ICT Systems Project\Web Form\HelloWorld1\HelloWorld1\bin\HelloWorld1.dll
+E:\04BIT15_Khanh\Green ICT Systems Project\Web Form\HelloWorld1\HelloWorld1\bin\HelloWorld1.pdb
+E:\04BIT15_Khanh\Green ICT Systems Project\Web Form\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.csprojResolveAssemblyReference.cache
+E:\04BIT15_Khanh\Green ICT Systems Project\Web Form\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.dll
+E:\04BIT15_Khanh\Green ICT Systems Project\Web Form\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.pdb
+C:\Users\apanjohn\Downloads\@@@WEB FORM\HelloWorld1\HelloWorld1\bin\HelloWorld1.dll.config
+C:\Users\apanjohn\Downloads\@@@WEB FORM\HelloWorld1\HelloWorld1\bin\HelloWorld1.dll
+C:\Users\apanjohn\Downloads\@@@WEB FORM\HelloWorld1\HelloWorld1\bin\HelloWorld1.pdb
+C:\Users\apanjohn\Downloads\@@@WEB FORM\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.csprojResolveAssemblyReference.cache
+C:\Users\apanjohn\Downloads\@@@WEB FORM\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.dll
+C:\Users\apanjohn\Downloads\@@@WEB FORM\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.pdb
+Z:\HelloWorld1 for khanh\HelloWorld1\bin\HelloWorld1.dll.config
+Z:\HelloWorld1 for khanh\HelloWorld1\bin\HelloWorld1.dll
+Z:\HelloWorld1 for khanh\HelloWorld1\bin\HelloWorld1.pdb
+Z:\HelloWorld1 for khanh\HelloWorld1\obj\Debug\HelloWorld1.csprojResolveAssemblyReference.cache
+Z:\HelloWorld1 for khanh\HelloWorld1\obj\Debug\HelloWorld1.dll
+Z:\HelloWorld1 for khanh\HelloWorld1\obj\Debug\HelloWorld1.pdb
+E:\Downloads\HelloWorld1 for khanh 2\HelloWorld1\bin\HelloWorld1.dll.config
+E:\Downloads\HelloWorld1 for khanh 2\HelloWorld1\bin\HelloWorld1.dll
+E:\Downloads\HelloWorld1 for khanh 2\HelloWorld1\bin\HelloWorld1.pdb
+E:\Downloads\HelloWorld1 for khanh 2\HelloWorld1\obj\Debug\HelloWorld1.csprojResolveAssemblyReference.cache
+E:\Downloads\HelloWorld1 for khanh 2\HelloWorld1\obj\Debug\HelloWorld1.dll
+E:\Downloads\HelloWorld1 for khanh 2\HelloWorld1\obj\Debug\HelloWorld1.pdb
+E:\04BIT15_Khanh\Green ICT Systems Project\HelloWorld1 for khanh 2\HelloWorld1\bin\HelloWorld1.dll.config
+E:\04BIT15_Khanh\Green ICT Systems Project\HelloWorld1 for khanh 2\HelloWorld1\bin\HelloWorld1.dll
+E:\04BIT15_Khanh\Green ICT Systems Project\HelloWorld1 for khanh 2\HelloWorld1\bin\HelloWorld1.pdb
+E:\04BIT15_Khanh\Green ICT Systems Project\HelloWorld1 for khanh 2\HelloWorld1\obj\Debug\HelloWorld1.csprojResolveAssemblyReference.cache
+E:\04BIT15_Khanh\Green ICT Systems Project\HelloWorld1 for khanh 2\HelloWorld1\obj\Debug\HelloWorld1.dll
+E:\04BIT15_Khanh\Green ICT Systems Project\HelloWorld1 for khanh 2\HelloWorld1\obj\Debug\HelloWorld1.pdb
+E:\04BIT15_Khanh\Green ICT Systems Project\@@@Final project\WebForm\HelloWorld1\bin\HelloWorld1.dll.config
+E:\04BIT15_Khanh\Green ICT Systems Project\@@@Final project\WebForm\HelloWorld1\bin\HelloWorld1.dll
+E:\04BIT15_Khanh\Green ICT Systems Project\@@@Final project\WebForm\HelloWorld1\bin\HelloWorld1.pdb
+E:\04BIT15_Khanh\Green ICT Systems Project\@@@Final project\WebForm\HelloWorld1\obj\Debug\HelloWorld1.csprojResolveAssemblyReference.cache
+E:\04BIT15_Khanh\Green ICT Systems Project\@@@Final project\WebForm\HelloWorld1\obj\Debug\HelloWorld1.dll
+E:\04BIT15_Khanh\Green ICT Systems Project\@@@Final project\WebForm\HelloWorld1\obj\Debug\HelloWorld1.pdb

@@ -1,0 +1,91 @@
+﻿/*
+    - * { } : to bring the whole content into the most ordinary position, structure, without margin, padding, WITHOUT style (easier to design by CSS)
+    - body { } : set up its width smaller than the true computer screen & its margin to be aligned center of the page 
+    - #center { } : the id of biggest image
+    - nav { } : the navigation menu, to decorate
+*/
+*{
+            margin: 0px;
+            padding: 0px;
+        }
+
+        body{
+            width: 950px;
+            margin: auto;
+        }
+        #center{
+            float: right;
+            text-align: center;
+        }
+/*
+    Navigation menu
+*/
+/* Make the whole menu bar float on the right, avoid being collapsed by above images, 
+    setting the width of whole menu, the top and bottom margin of menu */
+nav{
+    float: right;
+    width: 950px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+/* use URL address of internet image - a green background, make the border of menu a 6px degree of curl*/
+.horizontal-nav {
+  background-image: url("http://landlab.wustl.edu/wp-content/themes/landlab/library/images/banner-background-green.jpg");
+  border-radius: 6px;  
+}
+/* set background-color of 4 list items forestgreen, which float on the left side
+    set the whole menu in the center, also curl 6px degree of backgrounds containing 4 list items
+    set the width, type and color of border of whole 4 list items
+*/
+.horizontal-nav ul {
+  background-color: forestgreen;
+  float: left;
+  text-align: center;
+  border-radius: 6px;
+  border: 1px solid #0e7079;
+}
+/* set the words in each ul float left
+    set the width, type and color of border of each list item
+    erase the underline of the link of each list item, bring the black color of them
+    erase the bullet points
+*/
+.horizontal-nav ul li {
+  float: left;
+  border-left: 1px solid #0e7079;
+  text-decoration: none;
+  list-style-type: none;
+}
+/*
+    erase the underline of the link of each list item
+*/
+.horizontal-nav a{
+    text-decoration: none;
+}
+
+.horizontal-nav ul li:first-child {
+  border-left: 0 none;
+}
+.horizontal-nav ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: #fff;
+  border-top: 1px solid rgba(255,255,255, 0.25);
+  border-left: 1px solid rgba(255,255,255, 0.25);
+}
+.horizontal-nav ul li:first-child a {
+  border-left: 0 none;
+}
+/* when hovering over the link, the link turns darklategrey color*/
+.horizontal-nav ul li a:hover {
+  background-color: darkslategrey;
+}
+.horizontal-nav ul li:first-child a {
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+.horizontal-nav ul li:last-child a {
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+
+/* Navigation menu ending*/
